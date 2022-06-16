@@ -8,7 +8,7 @@
   "sketch-assistant": {
     "title": "Duplicate symbols finder",
     "description": "Find all the duplicate symbols inside the document",
-    "icon": ""
+    "icon": "https://raw.githubusercontent.com/chiarabonsignore/duplicate-symbols-finder/main/assets/icon.png"
   },
   "author": {
     "name": "Chiara Bonsignore"
