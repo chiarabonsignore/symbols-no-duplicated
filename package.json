@@ -1,6 +1,6 @@
 {
-  "name": "duplicate-symbols-finder",
-  "homepage": "https://github.com/chiarabonsignore/duplicate-symbols-finder",
+  "name": "symbols-no-duplicated",
+  "homepage": "https://github.com/chiarabonsignore/symbols-no-duplicated",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
@@ -8,7 +8,7 @@
   "sketch-assistant": {
     "title": "Duplicate symbols finder",
     "description": "Find all the duplicate symbols inside the document",
-    "icon": "https://raw.githubusercontent.com/chiarabonsignore/duplicate-symbols-finder/main/assets/icon.png"
+    "icon": "https://raw.githubusercontent.com/chiarabonsignore/symbols-no-duplicated/main/assets/icon.png"
   },
   "author": {
     "name": "Chiara Bonsignore"

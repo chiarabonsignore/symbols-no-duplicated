@@ -40,7 +40,7 @@ const duplicateSymbols: RuleDefinition = {
       context.utils.report("", duplicate.symbol);
     }
   },
-  name: 'duplicate-symbols-finder/duplicate-symbols',
+  name: 'symbols-no-duplicated',
   title: 'Duplicate symbols',
   description: 'Reports duplicate symbols in your design file.',
 }
@@ -54,7 +54,7 @@ const assistant: AssistantPackage = async () => {
     ),
     config: {
       rules: {
-        'duplicate-symbols-finder/duplicate-symbols': { active: true },
+        'symbols-no-duplicated': { active: true },
       },
     },
   }
